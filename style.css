@@ -1,7 +1,9 @@
-#constainer{
+.constainer{
     display:flex;
-}
+    justify-content: center;
 
-#GameBorder{
+}
+#gameBoardCanvas{
     border:10px solid #000000;
+
 }
