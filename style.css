@@ -1,0 +1,7 @@
+#constainer{
+    display:flex;
+}
+
+#GameBorder{
+    border:10px solid #000000;
+}
